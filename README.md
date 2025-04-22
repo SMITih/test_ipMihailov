@@ -1,6 +1,7 @@
 # Nuxt Minimal Starter
 
-Тестовое задание для ИП Михайлов Александр Олегович `https://chelyabinsk.hh.ru/vacancy/119604844?hhtmFrom=vacancy_response`
+Тестовое задание 
+для ИП Михайлов Александр Олегович `https://chelyabinsk.hh.ru/vacancy/119604844?hhtmFrom=vacancy_response`
 
 ## Setup
 
