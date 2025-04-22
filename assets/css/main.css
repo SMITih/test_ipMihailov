@@ -10,8 +10,6 @@
   box-sizing: border-box;
 }
 
-/* Links */
-
 a, a:link, a:visited  {
   text-decoration: none;
 }
@@ -19,8 +17,6 @@ a, a:link, a:visited  {
 a:hover  {
   text-decoration: none;
 }
-
-/* Common */
 
 aside, nav, footer, header, section, main {
   display: block;
@@ -47,8 +43,6 @@ img, svg {
 address {
   font-style: normal;
 }
-
-/* Form */
 
 input, textarea, button, select {
   font-family: inherit;
