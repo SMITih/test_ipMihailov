@@ -1,6 +1,6 @@
 # Nuxt Minimal Starter
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Тестовое задание для ИП Михайлов Александр Олегович `https://chelyabinsk.hh.ru/vacancy/119604844?hhtmFrom=vacancy_response`
 
 ## Setup
 
@@ -71,5 +71,3 @@ yarn preview
 # bun
 bun run preview
 ```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
